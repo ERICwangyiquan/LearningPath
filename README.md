@@ -1,2 +1,2 @@
 # LearningPath
-I will record the programmes I learned in here.
+I will record the C/C++ programmes I learned in here.
