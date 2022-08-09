@@ -1,7 +1,18 @@
 
 #include "Chess.h"
 
-
+void GiveExample()
+{
+	printf("\n");
+	printf("Example move:>2 3\n");
+	printf("   |   |   \n");
+	printf("---|---|---\n");
+	printf("   |   | * \n");
+	printf("---|---|---\n");
+	printf("   |   |   \n");
+	printf("\n");
+	printf("Game Start: \n");
+}
 
 void InitBoard(char board[ROW][COL], int row, int col)
 {
