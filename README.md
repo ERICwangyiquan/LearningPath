@@ -1,2 +1,2 @@
 # LearningPath
-Some C/C++ code I wrote.
+Some foundamental C/C++ code I wrote.
